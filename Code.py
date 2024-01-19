@@ -84,3 +84,4 @@ ax.set_ylabel('Greenhouse Gas Emissions per 100g Protein')
 ax.set_title('Bubble Chart for Greenhouse Gas Emissions')
 ax.grid(True)
 plt.show()
+#all done
